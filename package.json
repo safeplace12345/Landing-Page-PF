@@ -1,0 +1,12 @@
+{
+  "name": "Landing-Page-PF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ghost <safeplace12345@gmail.com>",
+  "license": "ISC"
+}
